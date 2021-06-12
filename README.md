@@ -1,4 +1,3 @@
-# MizumotoSim
-Mizumoto Park simulator
+# Mizumoto Park
 
-Currenly under development
+A virtual Mizumoto Park in Java.
